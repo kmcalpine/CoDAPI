@@ -20,3 +20,5 @@ class Program
       var response = await API.Profile("v1", "mw", "uno", "HusKerrs", "wz");     
     }
 }
+
+More examples can be found on [the website](https://kurtismcalpine.com/codapi/docs/)
