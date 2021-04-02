@@ -22,4 +22,4 @@ class Program
 }
 ```
 
-More examples can be found on [the website](https://kurtismcalpine.com/codapi/docs/)
+More examples can be found at https://kurtismcalpine.com/codapi/docs/
