@@ -21,5 +21,3 @@ class Program
     }
 }
 ```
-
-More examples can be found at https://kurtismcalpine.com/codapi/docs/
